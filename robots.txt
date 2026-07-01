@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://saintaugustinepestcontrol.com/sitemap.xml
